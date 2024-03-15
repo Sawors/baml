@@ -1,2 +1,2 @@
 ## BAML
-A fast command-line tool to parse YAML
+A fast command-line yaml parser.
